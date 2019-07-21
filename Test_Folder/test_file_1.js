@@ -1,6 +1,7 @@
 console.log("hello world");
-console.log("Hii again 1");
-console.log("Hii again 2");
-console.log("Hii again 3");
 console.log("Welcome");
 console.log("Welcome again");
+console.log("Welcome to rebase");
+console.log("Welcome to rebase inetractive 1");
+console.log("Welcome to rebase");
+
