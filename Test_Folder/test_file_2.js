@@ -6,3 +6,6 @@ console.log("To create conflict with master")
 console.log("Commit 1");
 console.log("c1")
 console.log("c2")
+console.log("Commit 1 plus");
+
+
